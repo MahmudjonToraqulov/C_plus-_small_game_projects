@@ -1,3 +1,2 @@
 C_plus-_small_game_projects
-It's a small c++ game project 
-dsddsdsasaadas
+It's a small c++ game project  
